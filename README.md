@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/5c1f5a70-d72b-4940-ae45-db492139a0a3" />
+
 # MOB Kit
 
 MOB Kit es un plugin VST3 para Windows (FL Studio y otros DAW) de MobKeller DSP: captura de audio, analisis a MIDI, Router entre instancias y grabador de video.
